@@ -1,1 +1,1 @@
-{"version":3,"names":[],"mappings":"","sources":["global.scss"],"sourcesContent":["/* global classes */\r\n\r\nbutton,button:focus{\r\n    outline: none !important;\r\n    box-shadow: none !important ;\r\n}"],"file":"global.css"}
+{"version":3,"names":[],"mappings":"","sources":["global.scss"],"sourcesContent":["/*  global classes  */\r\n\r\nbutton, button:focus{\r\n    outline: none !important;\r\n    box-shadow: none !important;\r\n}"],"file":"global.css"}
