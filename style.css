@@ -8,15 +8,15 @@ button, button:focus {
 
 /* typography classes */
 .font-baloo {
-  font-family: font-baloo;
+  font-family: "Baloo Thambi 2", cursive;
 }
 
 .font-rale {
-  font-family: font-raleway;
+  font-family: "Raleway", cursive;
 }
 
 .font-rubik {
-  font-family: font-rubik;
+  font-family: "Rubik", cursive;
 }
 
 .font-size-12 {
@@ -37,27 +37,27 @@ button, button:focus {
 
 /* Color Template  */
 .color-primary {
-  color: color-primary;
+  color: #003859;
 }
 
 .color-primary-bg {
-  background: color-primary;
+  background: #003859;
 }
 
 .color-second {
-  color: color-second;
+  color: #00A5C4;
 }
 
 .color-second-bg {
-  background: color-second;
+  background: #00A5C4;
 }
 
 .color-yellow {
-  color: color-yellow;
+  color: #FFD289;
 }
 
 .color-yellow-bg {
-  background: color-yellow;
+  background: #FFD289;
 }
 
 /*# sourceMappingURL=style.css.map */
