@@ -30,7 +30,13 @@ $("#top-sale .owl-carousel").owlCarousel({
 //isotope filter
 var $grid=$(".grid").isotope({
     itemSelector:'.grid-item',
-    layoutMode:'firRows'
+    layoutMode:'fitRows'
+})
+
+// filter items on button click 
+$(".button-group").on("click","button",function(){
+    var filterValue =$(this).attr('data-filter');
+    $grid.isotope({filter: filterValue})
 })
 
 })
