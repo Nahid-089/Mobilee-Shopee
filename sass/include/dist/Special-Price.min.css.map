@@ -1,0 +1,1 @@
+{"version":3,"sources":["Special-Price.scss"],"names":[],"mappings":"AACA,+BACE,aAAc,OACd,WAAY","file":"Special-Price.min.css","sourcesContent":["/* Special Price Section Templete */\r\n\r\n\r\n\r\n#special-price{\r\n    .grid.grid-item{\r\n        margin-right:1.2rem;\r\n        margin-top: 1rem;\r\n    }\r\n}"]}
