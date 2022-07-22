@@ -71,7 +71,6 @@ $("#blogs .owl-carousel").owlCarousel({
         600:{
             items:3
         },
-        
     }
 })
 
@@ -108,4 +107,8 @@ let $input = $(".qty .qty_input");
 
 });
 
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 277576b0618907be4cc981d82c13c952a5fc8124
