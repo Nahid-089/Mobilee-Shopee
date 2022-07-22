@@ -110,5 +110,5 @@ let $input = $(".qty .qty_input");
 
 });
 
-});
+
 
