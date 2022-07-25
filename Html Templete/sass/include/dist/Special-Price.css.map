@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["Special-Price.scss"],"sourcesContent":["/* Special Price Section Templete */\r\n\r\n\r\n\r\n#special-price{\r\n    .grid.grid-item{\r\n        margin-right:1.2rem;\r\n        margin-top: 1rem;\r\n    }\r\n}"],"file":"Special-Price.css"}

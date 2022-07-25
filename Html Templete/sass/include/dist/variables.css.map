@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["variables.scss"],"sourcesContent":["$font-baloo : \"Baloo Thambi 2\", cursive;\r\n$font-raleway : \"Raleway\",cursive;\r\n$font-rubik : \"Rubik\",cursive;\r\n$color-primary:#003859;\r\n$color-second :#00A5C4;\r\n$color-yellow:#FFD289; "],"file":"variables.css"}
